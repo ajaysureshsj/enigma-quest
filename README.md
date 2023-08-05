@@ -21,28 +21,28 @@ Welcome to Enigma Quest, an open-source quiz web app that will challenge your mi
 
 ### API Used
 
-- Open Trivia Database (OpenTDB) API: Provides a vast collection of trivia questions across various categories and difficulty levels.
+- Open Trivia Database (OpenTDB) API: Provides many trivia questions across various categories and difficulty levels.
 
 ### Implementation Details
 
 - The quiz questions are fetched from the OpenTDB API using Axios on the backend.
 - The React frontend communicates with the Node.js server using API endpoints to retrieve random questions and submit answers.
-- The server handles scoring logic and provides the next question to the frontend.
+- The server handles scoring logic and provides the following question to the frontend.
 - A timer is implemented on the frontend using JavaScript to keep track of the time for each question.
 
 ## Resource Section
 
 The following resources will aid you in building the Enigma Quest quiz web app:
 
-- **Open Trivia Database (OpenTDB) Documentation**: The official documentation of the OpenTDB API, which provides details on the available endpoints and how to use them to fetch trivia questions.
+- **Open Trivia Database (OpenTDB) Documentation**: The official Documentation of the OpenTDB API provides details on the available endpoints and how to use them to fetch trivia questions.
 
-- **React Documentation**: Comprehensive documentation for React, helping you learn about React components, state management, and UI design.
+- **React Documentation**: Comprehensive Documentation for React, helping you learn about React components, state management, and UI design.
 
-- **Node.js Documentation**: Detailed documentation on Node.js and Express.js to help you understand how to set up the backend server and handle API requests.
+- **Node.js Documentation**: Detailed Documentation on Node.js and Express.js to help you understand how to set up the backend server and handle API requests.
 
-- **Axios Documentation**: Axios is used for making HTTP requests in the backend. Its documentation will guide you on how to integrate and use Axios in your project.
+- **Axios Documentation**: Axios is used for making HTTP requests in the backend. Its Documentation will guide you in integrating and using Axios in your project.
 
-- **JavaScript Timer Implementation**: Resources on how to implement a timer using JavaScript for the countdown feature during the quiz.
+- **JavaScript Timer Implementation**: Resources on implementing a timer using JavaScript for the countdown feature during the quiz.
 
 - **HTML/CSS Design Tutorials**: Various tutorials and resources on web design using HTML and CSS, ensuring a visually appealing UI for Enigma Quest.
 
@@ -67,13 +67,13 @@ The frontend will run on `http://localhost:3000`, and the backend will run on `h
 
 To deploy Enigma Quest to a live server, follow these steps:
 
-1. Build the frontend: `cd frontend && npm run build`
-2. Move the build files to the backend's public directory: `mv frontend/build backend/public`
+1. Build the frontend: `cd frontend && npm run build.`
+2. Move the build files to the backend's public directory: `mv frontend/build backend/public.`
 3. Deploy the backend to your hosting platform.
 
 ## Contributing
 
-We welcome contributions from the open-source community to enhance the Enigma Quest quiz web app. If you have new puzzle ideas, improvements to the UI, or bug fixes, feel free to submit a pull request.
+We welcome contributions from the open-source community to enhance the Enigma Quest quiz web app. Feel free to submit a pull request if you have new puzzle ideas, improvements to the UI, or bug fixes.
 
 ## License
 
@@ -85,6 +85,6 @@ Special thanks to the Open Trivia Database (OpenTDB) for providing a vast collec
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to us via email at enigmaquest@example.com.
+If you have any questions or suggestions, feel free to reach out to us via email at ajaysureshsjofcl@gmail.com
 
 Get ready for a brain-twisting adventure with Enigma Quest! Happy quizzing! 🧠🔍

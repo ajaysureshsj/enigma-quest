@@ -11,7 +11,6 @@ Welcome to Enigma Quest, an open-source online platform for practicing GATE (Gra
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -63,3 +62,18 @@ npm install
 ```Bash
 node app.js
 ```
+### Usage
+- Register or log in to your Enigma Quest account.
+- Customize your practice session by selecting subjects and difficulty levels.
+- Start practicing MCQs and receive instant feedback.
+- Track your progress and compete on the leaderboard.
+
+### License
+
+This project is licensed under the [GNU General Public License (GPL) version 3](LICENSE).
+
+### Contact
+
+For inquiries and support, you can reach us at ajaysureshsj@gmail.com.
+
+

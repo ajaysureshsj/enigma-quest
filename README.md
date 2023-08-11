@@ -65,3 +65,7 @@ This project is licensed under the [GNU General Public License (GPL) version 3](
 For inquiries and support, you can reach us at ajaysureshsj@gmail.com.
 
 
+## Authors
+
+- [Paul Jimmy](https://github.com/paul-jimmy27)
+- [Ajay Suresh SJ](https://github.com/ajaysureshsj)

@@ -48,7 +48,7 @@ node app.js
 ```
 ### Custom Open-Source API
 
-Enigma Quest leverages a custom-made open-source API, called `gatemcq-api`, which provides a seamless integration of subject-based multiple-choice questions for GATE preparation. You can find the API repository and documentation [here](https://github.com/yourusername/gatemcq-api).
+Enigma Quest leverages a custom-made open-source API, called `GateMCQ-API`, which provides a seamless integration of subject-based multiple-choice questions for GATE preparation. You can find the API repository and documentation [here](https://github.com/ajaysureshsj/GateMCQ-API).
 
 ### Usage
 - Register or log in to your Enigma Quest account.

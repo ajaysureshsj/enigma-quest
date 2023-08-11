@@ -40,3 +40,26 @@ Enigma Quest aims to provide a user-friendly platform where GATE aspirants can p
 ### Prerequisites
 
 - Node.js and npm
+
+### Installation
+- Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/enigma-quest.git
+```
+
+- Navigate to the project directory:
+
+```Bash
+cd enigma-quest
+```
+
+- Install dependencies:
+```Bash
+npm install
+```
+
+- Start the server
+```Bash
+node app.js
+```

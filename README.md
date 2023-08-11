@@ -1,6 +1,6 @@
 # Enigma Quest
 
-Welcome to Enigma Quest, an open-source online platform for practicing GATE (Graduate Aptitude Test in Engineering) multiple-choice questions (MCQs). This project is being developed as part of [FOSS Night](https://fossnitc.github.io/), an event organized by the FOSS (Free and Open Source Software) Club at NIT Calicut.
+Welcome to Enigma Quest, an open-source online platform for practicing GATE (Graduate Aptitude Test in Engineering) multiple-choice questions (MCQs). This project is being developed as part of [FOSS Night](https://github.com/fosscell), an event organized by the FOSS (Free and Open Source Software) Club at NIT Calicut.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ Enigma Quest aims to provide a user-friendly platform where GATE aspirants can p
 - Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/enigma-quest.git
+git clone https://github.com/ajaysureshsj/enigma-quest.git
 ```
 
 - Navigate to the project directory:

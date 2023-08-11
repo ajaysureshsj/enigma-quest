@@ -2,10 +2,6 @@
 
 Welcome to Enigma Quest, an open-source online platform for practicing GATE (Graduate Aptitude Test in Engineering) multiple-choice questions (MCQs). This project is being developed as part of [FOSS Night](https://github.com/fosscell), an event organized by the FOSS (Free and Open Source Software) Club at NIT Calicut.
 
-## About
-
-Enigma Quest aims to provide a user-friendly platform where GATE aspirants can practice MCQs based on subjects and difficulty levels. Users can create individual profiles, track their progress, and compete on a leaderboard.
-
 ## Features
 
 - User authentication and profiles

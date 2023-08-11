@@ -2,18 +2,6 @@
 
 Welcome to Enigma Quest, an open-source online platform for practicing GATE (Graduate Aptitude Test in Engineering) multiple-choice questions (MCQs). This project is being developed as part of [FOSS Night](https://github.com/fosscell), an event organized by the FOSS (Free and Open Source Software) Club at NIT Calicut.
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
-
 ## About
 
 Enigma Quest aims to provide a user-friendly platform where GATE aspirants can practice MCQs based on subjects and difficulty levels. Users can create individual profiles, track their progress, and compete on a leaderboard.
@@ -62,6 +50,10 @@ npm install
 ```Bash
 node app.js
 ```
+### Custom Open-Source API
+
+Enigma Quest leverages a custom-made open-source API, called `gatemcq-api`, which provides a seamless integration of subject-based multiple-choice questions for GATE preparation. You can find the API repository and documentation [here](https://github.com/yourusername/gatemcq-api).
+
 ### Usage
 - Register or log in to your Enigma Quest account.
 - Customize your practice session by selecting subjects and difficulty levels.
